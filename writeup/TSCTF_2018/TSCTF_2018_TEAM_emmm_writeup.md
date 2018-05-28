@@ -45,6 +45,8 @@ nc了过去，发现是个coding题
 
 我对照维基百科自己解码得到了flag
 
+![](./raw/images/SHawnHardy_爱听音乐的friends_2.png)
+
 ### 正常的魔塔 -- colonel
 
 一开始打算用CE修改钥匙数和体力值，但是没扫到，放弃。

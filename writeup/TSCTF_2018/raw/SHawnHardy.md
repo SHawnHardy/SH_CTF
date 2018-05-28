@@ -42,6 +42,8 @@ nc了过去，发现是个coding题
 
 我对照维基百科自己解码得到了flag
 
+![](./images/SHawnHardy_爱听音乐的friends_2.png)
+
 ##  Web
 
 ### are you in class
